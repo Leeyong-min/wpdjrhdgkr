@@ -12,3 +12,14 @@
 
 matlab으로 inverse Laplace 적용
 ![12matlab](https://github.com/user-attachments/assets/78ef8a30-e69c-41f1-9ce8-34d54e2f40d2)
+
+---
+## P2.15 문제풀이
+![15](https://github.com/user-attachments/assets/77399330-6e28-497e-81a6-723680e057e9)
+matlab으로 inverse Laplace 적용하면,  
+
+----
+## P2.26 문제풀이
+
+![26-1](https://github.com/user-attachments/assets/f2526fdb-07f2-45cd-9fd0-64302890f60d)
+
