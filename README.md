@@ -24,6 +24,8 @@ matlab으로 inverse Laplace 적용하면,
 
 ![26-1](https://github.com/user-attachments/assets/f2526fdb-07f2-45cd-9fd0-64302890f60d)
 ![26-2](https://github.com/user-attachments/assets/be496db9-60c3-4bdd-968e-b29a34080186)
+  
 ----
 ## P2.37 문제풀이
+![37](https://github.com/user-attachments/assets/4651e4fb-5c67-4f30-974f-d8af318a5aa7)
 
